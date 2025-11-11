@@ -42,12 +42,10 @@ This exercise ensures a **deep understanding** of how linear problems are struct
 
 ### 1) Convert MPS → Matrix 
 Run:
-```bash```
 python Iliopoulou_week(1)_A.py
 
 ### 2) Convert Matrix → MPS (Reconstruction)
 
 Run the reconstruction script:
-```bash```
 python Iliopoulou_week(1)_B.py
 
