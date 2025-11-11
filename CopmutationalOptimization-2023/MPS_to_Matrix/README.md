@@ -40,13 +40,14 @@ This exercise ensures a **deep understanding** of how linear problems are struct
 
 ## Workflow
 
-### 1) Convert MPS → Matrix Form
+### 1) Convert MPS → Matrix 
 Run:
-```bash
+```bash```
 python Iliopoulou_week(1)_A.py
+
 ### 2) Convert Matrix → MPS (Reconstruction)
 
 Run the reconstruction script:
-```bash
+```bash```
 python Iliopoulou_week(1)_B.py
 
